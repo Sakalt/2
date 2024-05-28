@@ -16,4 +16,38 @@
     "pron": "ho1",
     "num": "1"
   },
+  {
+    "word": "王",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "王。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "uam2",
+    "num": "1"
+  },
+  {
+    "word": "皇",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "天皇。皇帝。皇。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "o2",
+    "num": "1"
+  },
 ]
